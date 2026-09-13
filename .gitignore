@@ -1,0 +1,19 @@
+# MPLAB / MPASM build products
+*.hex
+*.cof
+*.cod
+*.lst
+*.map
+*.err
+*.o
+*.d
+
+# MPLAB X project-local files
+nbproject/private/
+dist/
+build/
+
+# Editor and operating-system metadata
+.DS_Store
+*.swp
+*~

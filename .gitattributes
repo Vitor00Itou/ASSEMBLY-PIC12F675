@@ -1,0 +1,2 @@
+# Keep the legacy source encoding intact; GitHub should still classify it as Assembly.
+*.ASM linguist-language=Assembly
